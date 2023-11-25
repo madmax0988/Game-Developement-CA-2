@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    text-align: center;
+    color:aliceblue;
+    margin-bottom: 100px;
+    font-size: 40px;
+}
+
+#name{
+    margin-left: 40%;
+    margin-top: 90px;
+    font-size: 28px;
+    color: #A9A9A9;
+}
+
+#name-inp{
+    margin-left: 40%;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+#nickname{
+    margin-left: 40%;
+    font-size: 28px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    color: #A9A9A9;
+}
+
+#nick-inp{
+    margin-left: 40%;
+    font-size: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+body{
+    font-family: 'Lakki Reddy', serif;
+    background-image: url("images/Soil\ BG\ img.png");
+    background-size: 100%;
+}
+
+button{
+        width: 100px;
+        height: 40px;
+        border-radius: 20px;
+        cursor: pointer;
+        font-size: 20px;
+        font-weight: 600;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h3{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lakki Reddy', serif;
+    background-image: url("images/Soil\ BG\ img.png");
+    background-size: 100%;
+    text-align: center;
+}
+
+#play-button{
+    margin-top: 250px;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
